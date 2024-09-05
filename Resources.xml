@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Resources>
+  <Sprites group="Garden-CubeExp19Circus" alphaLimit="100" basePath="textures/Gamefield/static/Exp19Circus/Bm3/blockers">
+    <sprite id="cl_Exp19CircusBm3_Blocker_big1" path="Exp19CircusBm3_Blocker_big1"/>
+    <sprite id="cl_Exp19CircusBm3_Blocker_big2" path="Exp19CircusBm3_Blocker_big2"/>
+    <sprite id="cl_Exp19Circus_Exp19CircusBm3_blockers_PumpkinsTest" path="Exp19Circus_Exp19CircusBm3_blockers_PumpkinsTest"/>
+  </Sprites>
+  <Sprites group="Garden-CubeExp19Circus" alphaLimit="100" basePath="textures/Gamefield/static/Exp19Circus/Bm3/bones">
+    <sprite id="cl_Exp19CircusBm3_Blocker_big1" path="Exp19CircusBm3_Blocker_big1"/>
+    <sprite id="cl_Exp19CircusBm3_Blocker_big2" path="Exp19CircusBm3_Blocker_big2"/>
+    <sprite id="cl_Exp19Circus_Exp19CircusBm3_bones_CatTest" path="Exp19Circus_Exp19CircusBm3_bones_CatTest"/>
+  </Sprites>
+  <Sprites group="Garden-CubeExp19Circus" alphaLimit="100" basePath="textures/Gamefield/static/Exp19Circus/Bm3/Castle">
+    <sprite id="cl_Exp19CircusBm3_Blocker_big1" path="Exp19CircusBm3_Blocker_big1"/>
+    <sprite id="cl_Exp19CircusBm3_Blocker_big2" path="Exp19CircusBm3_Blocker_big2"/>
+    <sprite id="cl_Exp19Circus_Exp19CircusBm3_Roof_CoffinTest" path="Exp19Circus_Exp19CircusBm3_Roof_CoffinTest"/>
+  </Sprites>
+</Resources>

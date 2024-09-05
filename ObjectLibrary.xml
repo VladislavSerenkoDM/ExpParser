@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ObjectLibraryScheme>
+  <Objects instanceClass="PropObject" defaultZOrder="0">
+    <item id="1_Biom_Road_Line_01">
+      <layer name="texture" texture="1_Biom_Road_Line_01" type="texture" xMax="9" xMin="0" xOffset="-2" yMax="18" yMin="8" yOffset="-10" zMax="11" zMin="0" zOrder="-3"/>
+    </item>
+    <item id="Exp19CircusBm3_blockers_PumpkinsTest.png">
+      <layer type="texture" name="texture" texture="cl_Exp19CircusBm3_blockers_PumpkinsTest.png" xOffset="-130" yOffset="-50" xMin="-60" yMin="-70" zMin="0" xMax="60" yMax="15" zMax="300"/>
+    </item>
+    <item id="Exp19CircusBm3_bones_CatTest.png">
+      <layer type="texture" name="texture" texture="cl_Exp19CircusBm3_bones_CatTest.png" xOffset="-130" yOffset="-50" xMin="-60" yMin="-70" zMin="0" xMax="60" yMax="15" zMax="300"/>
+    </item>
+    <item id="Exp19CircusBm3_Roof_CoffinTest.png">
+      <layer type="texture" name="texture" texture="cl_Exp19CircusBm3_Roof_CoffinTest.png" xOffset="-130" yOffset="-50" xMin="-60" yMin="-70" zMin="0" xMax="60" yMax="15" zMax="300"/>
+    </item>
+  </Objects>
+  <Objects instanceClass="PropObject" defaultZOrder="-1000">
+    <item id="Exp19CircusBm1_trak_group1">
+      <layer type="texture" name="texture1" texture="cl_Exp19CircusBm1_trak_st1" xOffset="-21" yOffset="-31" xMin="9" yMin="11" xMax="33" yMax="29" zMax="8" zOrder="-900"/>
+      <layer type="texture" name="texture3" texture="cl_Exp19CircusBm1_trak_st3" xOffset="16" yOffset="-16" xMin="-13" yMin="13" xMax="0" yMax="34" zMax="7" zOrder="-900"/>
+      <layer type="texture" name="texture4" texture="cl_Exp19CircusBm1_trak_st4" xOffset="0" yOffset="3" xMin="-30" yMin="-13" xMax="-14" yMax="8" zMax="6" zOrder="-900"/>
+      <layer type="texture" name="texture5" texture="cl_Exp19CircusBm1_trak_st5" xOffset="-42" yOffset="4" xMin="-15" yMin="-33" xMax="11" yMax="-13" zMax="6" zOrder="-900"/>
+      <layer type="texture" name="texture6" texture="cl_Exp19CircusBm1_trak_st6" xOffset="-47" yOffset="-11" xMin="14" yMin="-16" xMax="32" yMax="-2" zMax="6" zOrder="-900"/>
+      <layer type="texture" name="texture7" texture="cl_Exp19CircusBm1_trak_st7" xOffset="-18" yOffset="-11" xMin="-6" yMin="-4" xMax="14" yMax="16" zMax="7" zOrder="-900"/>
+    </item>
+  </Objects>
+</ObjectLibraryScheme>

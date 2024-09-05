@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Buildings>
+  <landscape>
+    <item id="Exp19Circus_Biom1_Theater" editorOnly="true">
+      <build name="Exp19CircusBm1_theater_Newspaper_1"/>
+      <build name="Exp19CircusBm1_theater_Newspaper_2"/>
+    </item>
+    <item id="Exp19Circus_Shatyr" editorOnly="true">
+      <build name="Exp19CircusBm1_shatyr_bottom22"/>
+    </item>
+  </landscape>
+</Buildings>
